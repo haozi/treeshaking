@@ -5,7 +5,7 @@ const PREFIX = `\0virtual:`
 const findOrder = [
   '',
   '.mjs', '.js', '.json', '.node',
-  '/index..mjs', '/index.js', '/index.json', '/index.node'
+  '/index.mjs', '/index.js', '/index.json', '/index.node'
 ]
 
 export default function virtual (modules) {

@@ -4,6 +4,12 @@ tree shake es_module in memory
 
 ---
 
+## Install
+
+```shell
+npm install treeshaking -save-dev
+```
+
 ## Demo
 
 ```javascript
