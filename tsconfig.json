@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es2015",
+    "target": "es5",
     "module": "commonjs",
     "lib": ["esnext"],
     "types": ["node"],
@@ -17,7 +17,7 @@
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
-    "inlineSourceMap": true,
+    "sourceMap": true,
     "importHelpers": true,
     "strict": true
   },
