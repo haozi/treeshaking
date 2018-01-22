@@ -1,6 +1,5 @@
 import { rollup } from 'rollup'
 import virtual from './virtual'
-import { format } from 'path';
 
 interface Options {
   entry?: string,

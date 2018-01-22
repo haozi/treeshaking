@@ -1,5 +1,4 @@
 import * as path from 'path'
-import { resolve } from 'url'
 
 const PREFIX = `\0virtual:`
 const findOrder = [

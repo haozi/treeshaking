@@ -1,8 +1,7 @@
 {
   "extends": "tslint-config-standard",
   "rules": {
-    "semicolon": false,
-    "no-unused-variable": false
+    "no-unused-variable": true
   }
 }
 
