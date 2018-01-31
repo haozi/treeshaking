@@ -1,8 +1,13 @@
+.vscode
 node_modules
 coverage
 demo
 test
 ISSUE_TEMPLATE.md
 appveyor.yml
+.editorconfig
+tsconfig.json
+tslint.json
+yarn.lock
 *.ts
 !**/*.d.ts
