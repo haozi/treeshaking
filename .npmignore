@@ -1,8 +1,8 @@
-.vscode
-node_modules
-coverage
-demo
-test
+.vscode/
+node_modules/
+coverage/
+demo/
+test/
 ISSUE_TEMPLATE.md
 appveyor.yml
 .editorconfig
