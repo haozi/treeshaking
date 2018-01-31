@@ -1,11 +1,12 @@
 import { rollup } from 'rollup'
 import virtual from './virtual'
 
-interface Options {
+export interface Options {
   entry?: string,
   format?: 'amd' | 'cjs' | 'es' | 'es6' | 'iife' | 'umd',
   name?: string
 }
+
 export default async (modules, options: Options = {
   entry: 'index.js',
   format: 'es',

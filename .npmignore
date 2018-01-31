@@ -4,3 +4,5 @@ demo
 test
 ISSUE_TEMPLATE.md
 appveyor.yml
+*.ts
+!**/*.d.ts
